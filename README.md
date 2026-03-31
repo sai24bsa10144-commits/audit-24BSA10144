@@ -1,7 +1,7 @@
 # Open Source Audit Project
 
-Name: Pratham
-Reg Number:24BCE11232
+Name: Sai Sovan Pattanayak
+Reg Number:24BSA10144
 
 Software Chosen: Git
 
